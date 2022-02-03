@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "WV9yjNNnv9UssP+59OSQhM8gVoua9jhYEIsHMbXxHxYWdCP5qvfdUd2hhQ8/5yH9ZhC4X1yRzK/4x+oJI9c/qg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kyle\\source\\repos\\CapyCoin\\CapyCoin\\CapyCoin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kyle\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Kyle\\.nuget\\packages\\starkbank-ecdsa\\1.3.3\\starkbank-ecdsa.1.3.3.nupkg.sha512"
+  ],
+  "logs": []
+}
